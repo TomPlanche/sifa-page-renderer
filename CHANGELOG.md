@@ -1,5 +1,11 @@
 # @singi-labs/sifa-page-renderer
 
+## 0.2.37
+
+### Patch Changes
+
+- ce3c44a: Add scroll-margin-top to align headings on navigation
+
 ## 0.2.36
 
 ### Patch Changes
